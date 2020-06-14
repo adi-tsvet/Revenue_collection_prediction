@@ -67,5 +67,5 @@ The neural network model was finalised as it has much better accuracy than that 
 The prediction was done for the test dataset and submitted in a graphical form.
 	
 Python Code file with comments
-Please find the attached document for pton code.
+Please find the attached document for python code.
 
